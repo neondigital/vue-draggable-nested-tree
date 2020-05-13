@@ -1,7 +1,7 @@
 <script>
 import * as hp from 'helper-js'
 import * as th from 'tree-helper'
-import draggableHelper from 'draggable-helper'
+import draggableHelper from '@neondigital/draggable-helper'
 import TreeNode from './TreeNode.vue'
 import autoMoveDragPlaceHolder, {isNodeDraggable, isNodeDroppable} from './autoMoveDragPlaceHolder'
 import * as vf from 'vue-functions'
