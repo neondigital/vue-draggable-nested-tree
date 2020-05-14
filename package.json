@@ -26,13 +26,13 @@
     "vue-functions": "^2.0.3",
     "@neondigital/draggable-helper": "1.0.20",
     "tree-helper": "^1.0.5",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0",
     "vue-runtime-helpers": "^1.1.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
     "@vue/cli-service": "^4.1.0",
-    "pug": "^2.0.4",
-    "pug-plain-loader": "^1.0.0",
     "rogo": "^1.0.3",
     "rollup-plugin-vue": "^5.1.1",
     "sass": "^1.23.7",
